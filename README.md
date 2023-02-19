@@ -21,18 +21,18 @@ Tech Stack:
 # Structure Project
 public/
 src/
-    ├──  component/
-    ├──  const
-    ├──  helper
-    ├──  page
-    ├──  type
-    ├──  App.css
-    ├──  App.test.tsx
-    ├──  App.tsx
-    ├──  index.css
-    ├──  index.tsx
-    ├──  logo.svg
-    ├──  react-app-env.d.ts
+├──  component/
+├──  const
+├──  helper
+├──  page
+├──  type
+├──  App.css
+├──  App.test.tsx
+├──  App.tsx
+├──  index.css
+├──  index.tsx
+├──  logo.svg
+├──  react-app-env.d.ts
 README.md
 tsconfig.json
 
