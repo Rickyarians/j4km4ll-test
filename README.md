@@ -17,9 +17,9 @@ Tech Stack:
 
 
 # Screenshot
-![alt text](https://ibb.co/2nGTptw)
-![alt text](https://ibb.co/5h53ZCw)
-![alt text](https://ibb.co/6P9h0Gj)
+![alt text](https://i.ibb.co/23jrJRH/page1-notvalid.png)
+![alt text](https://i.ibb.co/ftJfrsQ/page1.png)
+![alt text](https://i.ibb.co/HzwvTR5/page2.png)
 ![alt text](https://i.ibb.co/9sXbhJp/page3.png)
 
 ## Available Scripts
