@@ -1,6 +1,9 @@
 
 # TEST FRONTEND ENGINEER - JAKM*LL
 
+by: Ricky Ariansyah - rickyarians@outlook.com
+
+
 This project was initiated with [Create React App](https://github.com/facebook/create-react-app). with typescript template
 
 Tech Stack:
@@ -15,6 +18,23 @@ Tech Stack:
 - 3 Step Form with validation
 - save state by local storage
 
+# Structure Project
+public/
+src/
+    ├──  component/
+    ├──  const
+    ├──  helper
+    ├──  page
+    ├──  type
+    ├──  App.css
+    ├──  App.test.tsx
+    ├──  App.tsx
+    ├──  index.css
+    ├──  index.tsx
+    ├──  logo.svg
+    ├──  react-app-env.d.ts
+README.md
+tsconfig.json
 
 # Screenshot
 ![alt text](https://i.ibb.co/23jrJRH/page1-notvalid.png)
