@@ -17,10 +17,10 @@ Tech Stack:
 
 
 # Screenshot
-[alt text](https://ibb.co/2nGTptw)
-[alt text](https://ibb.co/5h53ZCw)
-[alt text](https://ibb.co/6P9h0Gj)
-[alt text](https://ibb.co/0hNCKkn)
+![alt text](https://ibb.co/2nGTptw)
+![alt text](https://ibb.co/5h53ZCw)
+![alt text](https://ibb.co/6P9h0Gj)
+![alt text](https://ibb.co/0hNCKkn)
 
 ## Available Scripts
 
