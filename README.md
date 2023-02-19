@@ -19,22 +19,31 @@ Tech Stack:
 - save state by local storage
 
 # Structure Project
-public/
-src/
-├──  component/
-├──  const
-├──  helper
-├──  page
-├──  type
-├──  App.css
-├──  App.test.tsx
-├──  App.tsx
-├──  index.css
-├──  index.tsx
-├──  logo.svg
-├──  react-app-env.d.ts
-README.md
-tsconfig.json
+
+├── src
+│   ├──  component/
+│   ├──  const
+│   ├──  helper
+│   ├──  page
+│   ├──  type
+│   ├──  App.css
+│   ├──  App.test.tsx
+│   ├──  App.tsx
+│   ├──  index.css
+│   ├──  index.tsx
+│   ├──  logo.svg
+│   ├──  react-app-env.d.ts
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json 
+└── .gitignore
 
 # Screenshot
 ![alt text](https://i.ibb.co/23jrJRH/page1-notvalid.png)
