@@ -20,7 +20,7 @@ Tech Stack:
 ![alt text](https://ibb.co/2nGTptw)
 ![alt text](https://ibb.co/5h53ZCw)
 ![alt text](https://ibb.co/6P9h0Gj)
-![alt text](https://i.ibb.co/0hNCKkn/page3.png)
+![alt text](https://i.ibb.co/9sXbhJp/page3.png)
 
 ## Available Scripts
 
