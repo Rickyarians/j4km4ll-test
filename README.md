@@ -10,14 +10,17 @@ Tech Stack:
 - react-icons
 
 
+# Detail 
 
-## Flow
-There are 2 forms and 1 finish step in this project.
+- 3 Step Form with validation
+- save state by local storage
 
-Every input field is controlled and validated with react-hook-form.
-UI Styling was created from scratch with styled-component helps.
 
-Users are be able to fill the form and it will be saved to localeStorage, so if page is refreshed, the app will be able to collect data from localStorage.
+# Screenshot
+[alt text](https://ibb.co/2nGTptw)
+[alt text](https://ibb.co/5h53ZCw)
+[alt text](https://ibb.co/6P9h0Gj)
+[alt text](https://ibb.co/0hNCKkn)
 
 ## Available Scripts
 
