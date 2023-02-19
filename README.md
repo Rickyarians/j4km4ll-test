@@ -20,6 +20,7 @@ Tech Stack:
 
 # Structure Project
 
+```
 ├── src
 │   ├──  component/
 │   ├──  const
@@ -44,6 +45,7 @@ Tech Stack:
 ├── package.json
 ├── package-lock.json 
 └── .gitignore
+```
 
 # Screenshot
 ![alt text](https://i.ibb.co/23jrJRH/page1-notvalid.png)
